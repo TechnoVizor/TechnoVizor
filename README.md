@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TechnoVizor&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=TechnoVizor&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
@@ -80,8 +80,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TechnoVizor&show_icons=true&hide_border=true&bg_color=000000&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoVizor&layout=compact&hide_border=true&bg_color=000000&title_color=39d353&text_color=c9d1d9" height="165" alt="Top languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TechnoVizor&show_icons=true&hide_border=true&bg_color=000000&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TechnoVizor&layout=compact&hide_border=true&bg_color=000000&title_color=39d353&text_color=c9d1d9" height="165" alt="Top languages" />
 
 <br/><br/>
 
