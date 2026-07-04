@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58A6FF&height=200&section=header&text=I%C4%BCja%20Ponomarovs&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Student&descAlignY=55&descSize=20" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d4429,100:39d353&height=200&section=header&text=I%C4%BCja%20Ponomarovs&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Student&descAlignY=55&descSize=20" width="100%" alt="Header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=React+%2B+Next.js+%E2%9A%9B%EF%B8%8F;Vue+%2B+Nuxt+(SSR)+%F0%9F%92%9A;Laravel+%26+PHP+%F0%9F%9B%A0%EF%B8%8F;Python+%E2%80%A2+Data+%E2%80%A2+AI+%F0%9F%A7%A0;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=React+%2B+Next.js+%E2%9A%9B%EF%B8%8F;Vue+%2B+Nuxt+(SSR)+%F0%9F%92%9A;Laravel+%26+PHP+%F0%9F%9B%A0%EF%B8%8F;Python+%E2%80%A2+Data+%E2%80%A2+AI+%F0%9F%A7%A0;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing intro" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=TechnoVizor&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/TechnoVizor)
-[![Followers](https://img.shields.io/github/followers/TechnoVizor?style=flat-square&color=58A6FF&labelColor=1c1c29)](https://github.com/TechnoVizor?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=TechnoVizor&color=39d353&style=flat-square&label=Profile+Views)](https://github.com/TechnoVizor)
+[![Followers](https://img.shields.io/github/followers/TechnoVizor?style=flat-square&color=39d353&labelColor=000000)](https://github.com/TechnoVizor?tab=followers)
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TechnoVizor&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=TechnoVizor&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
@@ -80,16 +80,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TechnoVizor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoVizor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=TechnoVizor&show_icons=true&hide_border=true&bg_color=000000&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoVizor&layout=compact&hide_border=true&bg_color=000000&title_color=39d353&text_color=c9d1d9" height="165" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=TechnoVizor&theme=tokyonight&hide_border=true&background=0d1117" height="165" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=TechnoVizor&hide_border=true&background=000000&ring=39d353&fire=39FF14&currStreakNum=39d353&currStreakLabel=39d353&sideNums=c9d1d9&sideLabels=39d353&dates=8b949e" height="165" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoVizor&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="95%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoVizor&hide_border=true&bg_color=000000&color=39d353&line=39d353&point=39FF14&title_color=39d353" width="95%" alt="Contribution activity graph" />
 
 </div>
 
@@ -111,6 +111,6 @@
 
 ⭐️ From [TechnoVizor](https://github.com/TechnoVizor)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="Footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:0d4429,100:000000&height=120&section=footer" width="100%" alt="Footer banner" />
 
 </div>
