@@ -1,34 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d4429,100:39d353&height=200&section=header&text=I%C4%BCja%20Ponomarovs&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Student&descAlignY=55&descSize=20" width="100%" alt="Header banner" />
+<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/matrix-header.svg" width="100%" alt="Matrix header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=React+%2B+Next.js+%E2%9A%9B%EF%B8%8F;Vue+%2B+Nuxt+(SSR)+%F0%9F%92%9A;Laravel+%26+PHP+%F0%9F%9B%A0%EF%B8%8F;Python+%E2%80%A2+Data+%E2%80%A2+AI+%F0%9F%A7%A0;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing intro" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=TechnoVizor&color=39d353&style=flat-square&label=Profile+Views)](https://github.com/TechnoVizor)
-[![Followers](https://img.shields.io/github/followers/TechnoVizor?style=flat-square&color=39d353&labelColor=000000)](https://github.com/TechnoVizor?tab=followers)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+i%C4%BCja+%E2%80%A2+full-stack+developer;%24+ls+~%2Fskills+%E2%86%92+react+next.js+vue+nuxt+laravel+python;%24+cat+databases.txt+%E2%86%92+postgresql+mysql+sqlite;%24+.%2Fbuild_future.sh+--now+_" alt="Terminal typing intro" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Rainbow divider" />
+<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/matrix-divider.svg" width="100%" alt="Matrix divider" />
 
-## 🚀 About Me
+## 💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding gif" />
+```console
+ilja@technovizor:~$ neofetch
 
-- 🎓 Student & **full-stack web developer**
-- ⚛️ Proficient in **React + Next.js** and **Vue + Nuxt (SSR)**
-- 🛠️ Backend with **Laravel / PHP** & **Python**
-- 🗄️ Databases: **PostgreSQL, MySQL, SQLite**
-- 🦋 Built an AI model for **butterfly image classification**
-- 📊 Into **data analytics** & web scraping
-- 📈 Leveling up one project at a time
-- 📫 Reach me: **thelogingame@gmail.com**
+    ████████╗ ██╗   ██╗      ilja@technovizor
+    ╚══██╔══╝ ██║   ██║      ─────────────────────────────────────────
+       ██║    ╚██╗ ██╔╝      Role........: Full-Stack Developer & Student
+       ██║     ╚████╔╝       Frontend....: React + Next.js, Vue + Nuxt (SSR)
+       ██║      ╚██╔╝        Backend.....: Laravel / PHP, Python, Node.js
+       ╚═╝       ╚═╝         Databases...: PostgreSQL, MySQL, SQLite
+                             AI & Data...: Pandas, NumPy, Jupyter
+      [TechnoVizor v2.0]     Achievement.: Butterfly-classification AI 🦋
+                             Contact.....: thelogingame@gmail.com
+                             Status......: always learning, always building
 
-<br clear="right"/>
+ilja@technovizor:~$ ▊
+```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Rainbow divider" />
+<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/matrix-divider.svg" width="100%" alt="Matrix divider" />
 
 ## 🛠️ Tech Stack
 
@@ -53,7 +52,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Rainbow divider" />
+<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/matrix-divider.svg" width="100%" alt="Matrix divider" />
 
 ## 📌 Featured Projects
 
@@ -66,7 +65,7 @@
 | [🏠 Apartment Web Scraper](https://github.com/TechnoVizor/web-scraper-sslv) | Scraper collecting real-estate listing data | Python |
 | [🎓 Student Registration System](https://github.com/TechnoVizor/project-student) | Student registration management system | PHP |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Rainbow divider" />
+<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/matrix-divider.svg" width="100%" alt="Matrix divider" />
 
 ## 🏆 GitHub Trophies
 
