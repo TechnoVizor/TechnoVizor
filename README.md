@@ -38,26 +38,3 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-divider.svg" width="100%" alt="divider" />
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🦋 Butterfly Recognition AI](https://github.com/TechnoVizor/Butterfly-Recognition-AI) | AI model for classifying butterfly species from images | Python, Jupyter |
-| [📊 Social Media Data Analytics](https://github.com/TechnoVizor/Data-Analytics-Social-Media) | Data analysis of social media impact on mental health | Python, Pandas |
-| [🛒 Web Store](https://github.com/TechnoVizor/Web-store) | Full web store application | Laravel, Blade |
-| [⚛️ React + Tailwind Project](https://github.com/TechnoVizor/React-tailwind-project) | Modern frontend built with React & Tailwind CSS | React, Tailwind |
-| [🏠 Apartment Web Scraper](https://github.com/TechnoVizor/web-scraper-sslv) | Scraper collecting real-estate listing data | Python |
-| [🎓 Student Registration System](https://github.com/TechnoVizor/project-student) | Student registration management system | PHP |
-
-<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-divider.svg" width="100%" alt="divider" />
-
-<div align="center">
-
-### 💬 *"Learning by building."*
-
-⭐️ From [TechnoVizor](https://github.com/TechnoVizor)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,50:2c2c2e,100:1c1c1e&height=120&section=footer" width="100%" alt="Footer banner" />
-
-</div>
