@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',sans-serif">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="0%" r="100%">
+    <stop offset="0%" stop-color="#2c2c3a"/>
+    <stop offset="100%" stop-color="#101014"/>
+  </radialGradient>
+  <radialGradient id="blob1" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#0A84FF" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#0A84FF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="blob2" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#BF5AF2" stop-opacity="0.4"/>
+    <stop offset="100%" stop-color="#BF5AF2" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="cardStroke" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0.22"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0.06"/>
+  </linearGradient>
+  <filter id="blur1"><feGaussianBlur stdDeviation="60"/></filter>
+  <filter id="blur2"><feGaussianBlur stdDeviation="70"/></filter>
+  <style>
+    .title { animation: glow 3.2s ease-in-out infinite; }
+    @keyframes glow { 0%,100% { opacity: 0.9; } 50% { opacity: 1; } }
+    .cursor { animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+</defs>
+
+<rect width="1000" height="260" fill="url(#bg)"/>
+<circle cx="180" cy="60" r="160" fill="url(#blob1)" filter="url(#blur1)"/>
+<circle cx="840" cy="210" r="200" fill="url(#blob2)" filter="url(#blur2)"/>
+<circle cx="720" cy="30" r="120" fill="url(#blob1)" filter="url(#blur1)" opacity="0.6"/>
+
+<rect x="200" y="66" width="600" height="128" rx="16" fill="#1c1c1eCC"/>
+<rect x="200" y="66" width="600" height="128" rx="16" fill="none" stroke="url(#cardStroke)" stroke-width="1"/>
+
+<circle cx="224" cy="90" r="6" fill="#ff5f56"/>
+<circle cx="244" cy="90" r="6" fill="#ffbd2e"/>
+<circle cx="264" cy="90" r="6" fill="#27c93f"/>
+
+<text x="500" y="150" text-anchor="middle" class="title" font-size="36" font-weight="600" fill="#f5f5f7">TechnoVizor</text>
+<text x="500" y="178" text-anchor="middle" font-size="15" fill="#0A84FF" font-family="'SF Mono',Menlo,Consolas,monospace">Iļja Ponomarovs · full-stack developer<tspan class="cursor" fill="#98989d">▌</tspan></text>
+</svg>

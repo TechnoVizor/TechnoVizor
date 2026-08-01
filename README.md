@@ -1,58 +1,43 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/matrix-header.svg" width="100%" alt="Matrix header" />
+<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-header.svg" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+i%C4%BCja+%E2%80%A2+full-stack+developer;%24+ls+~%2Fskills+%E2%86%92+react+next.js+vue+nuxt+laravel+python;%24+cat+databases.txt+%E2%86%92+postgresql+mysql+sqlite;%24+.%2Fbuild_future.sh+--now+_" alt="Terminal typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=0A84FF&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+i%C4%BCja+%E2%80%A2+full-stack+developer;%24+ls+~%2Fskills+%E2%86%92+react+next.js+vue+nuxt+laravel+python;%24+cat+databases.txt+%E2%86%92+postgresql+mysql+sqlite;%24+.%2Fbuild_future.sh+--now+_" alt="Terminal typing intro" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/matrix-divider.svg" width="100%" alt="Matrix divider" />
+<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-divider.svg" width="100%" alt="divider" />
 
 ## 💻 About Me
 
-```console
-ilja@technovizor:~$ neofetch
+<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-terminal.svg" width="100%" alt="Terminal window with neofetch output" />
 
-    ████████╗ ██╗   ██╗      ilja@technovizor
-    ╚══██╔══╝ ██║   ██║      ─────────────────────────────────────────
-       ██║    ╚██╗ ██╔╝      Role........: Full-Stack Developer & Student
-       ██║     ╚████╔╝       Frontend....: React + Next.js, Vue + Nuxt (SSR)
-       ██║      ╚██╔╝        Backend.....: Laravel / PHP, Python, Node.js
-       ╚═╝       ╚═╝         Databases...: PostgreSQL, MySQL, SQLite
-                             AI & Data...: Pandas, NumPy, Jupyter
-      [TechnoVizor v2.0]     Achievement.: Butterfly-classification AI 🦋
-                             Contact.....: thelogingame@gmail.com
-                             Status......: always learning, always building
-
-ilja@technovizor:~$ ▊
-```
-
-<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/matrix-divider.svg" width="100%" alt="Matrix divider" />
+<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-divider.svg" width="100%" alt="divider" />
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### ⚛️ Frontend & SSR
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind&perline=9" alt="Frontend icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind&perline=9&theme=dark" alt="Frontend icons" />
 
 ### 🔧 Backend
-<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs&perline=9" alt="Backend icons" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs&perline=9&theme=dark" alt="Backend icons" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=9" alt="Database icons" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=9&theme=dark" alt="Database icons" />
 
 ### 🧠 Data & AI
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Pandas-1c1c1e?style=flat-square&logo=pandas&logoColor=0A84FF" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-1c1c1e?style=flat-square&logo=numpy&logoColor=0A84FF" alt="NumPy" />
+<img src="https://img.shields.io/badge/Jupyter-1c1c1e?style=flat-square&logo=jupyter&logoColor=0A84FF" alt="Jupyter" />
 
 ### ⚙️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&perline=9" alt="Tools icons" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&perline=9&theme=dark" alt="Tools icons" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/matrix-divider.svg" width="100%" alt="Matrix divider" />
+<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-divider.svg" width="100%" alt="divider" />
 
 ## 📌 Featured Projects
 
@@ -65,13 +50,13 @@ ilja@technovizor:~$ ▊
 | [🏠 Apartment Web Scraper](https://github.com/TechnoVizor/web-scraper-sslv) | Scraper collecting real-estate listing data | Python |
 | [🎓 Student Registration System](https://github.com/TechnoVizor/project-student) | Student registration management system | PHP |
 
-<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/matrix-divider.svg" width="100%" alt="Matrix divider" />
+<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-divider.svg" width="100%" alt="divider" />
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=TechnoVizor&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=TechnoVizor&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
@@ -79,16 +64,16 @@ ilja@technovizor:~$ ▊
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TechnoVizor&show_icons=true&hide_border=true&bg_color=000000&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TechnoVizor&layout=compact&hide_border=true&bg_color=000000&title_color=39d353&text_color=c9d1d9" height="165" alt="Top languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TechnoVizor&show_icons=true&hide_border=true&bg_color=1c1c1e&title_color=0A84FF&icon_color=0A84FF&text_color=f5f5f7&ring_color=0A84FF&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TechnoVizor&layout=compact&hide_border=true&bg_color=1c1c1e&title_color=0A84FF&text_color=f5f5f7" height="165" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=TechnoVizor&hide_border=true&background=000000&ring=39d353&fire=39FF14&currStreakNum=39d353&currStreakLabel=39d353&sideNums=c9d1d9&sideLabels=39d353&dates=8b949e" height="165" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=TechnoVizor&hide_border=true&background=1c1c1e&ring=0A84FF&fire=0A84FF&currStreakNum=f5f5f7&currStreakLabel=0A84FF&sideNums=f5f5f7&sideLabels=98989d&dates=98989d" height="165" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoVizor&hide_border=true&bg_color=000000&color=39d353&line=39d353&point=39FF14&title_color=39d353" width="95%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoVizor&hide_border=true&bg_color=1c1c1e&color=0A84FF&line=0A84FF&point=f5f5f7&title_color=0A84FF" width="95%" alt="Contribution activity graph" />
 
 </div>
 
@@ -110,6 +95,6 @@ ilja@technovizor:~$ ▊
 
 ⭐️ From [TechnoVizor](https://github.com/TechnoVizor)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:0d4429,100:000000&height=120&section=footer" width="100%" alt="Footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,50:2c2c2e,100:1c1c1e&height=120&section=footer" width="100%" alt="Footer banner" />
 
 </div>
