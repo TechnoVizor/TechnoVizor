@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" font-family="'SF Mono',Menlo,Monaco,Consolas,monospace">
+<defs>
+  <linearGradient id="titlebar" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#3a3a3c"/>
+    <stop offset="100%" stop-color="#2c2c2e"/>
+  </linearGradient>
+  <clipPath id="round"><rect x="0" y="0" width="1000" height="440" rx="14"/></clipPath>
+</defs>
+
+<g clip-path="url(#round)">
+  <rect width="1000" height="440" fill="#1e1e1e"/>
+  <rect width="1000" height="40" fill="url(#titlebar)"/>
+  <circle cx="24" cy="20" r="6.5" fill="#ff5f56"/>
+  <circle cx="46" cy="20" r="6.5" fill="#ffbd2e"/>
+  <circle cx="68" cy="20" r="6.5" fill="#27c93f"/>
+  <text x="500" y="25" text-anchor="middle" font-size="13" fill="#98989d">ilja — zsh — 90x24</text>
+</g>
+<rect x="0.5" y="0.5" width="999" height="439" rx="14" fill="none" stroke="#000000" stroke-opacity="0.6"/>
+
+<text x="28" y="72" font-size="15" fill="#0A84FF">ilja@technovizor <tspan fill="#98989d">~</tspan> <tspan fill="#f5f5f7">%</tspan> <tspan fill="#f5f5f7">neofetch</tspan></text>
+
+<g font-size="14" fill="#0A84FF" font-weight="600">
+  <text x="40" y="130">████████╗ ██╗   ██╗</text>
+  <text x="40" y="148">╚══██╔══╝ ██║   ██║</text>
+  <text x="40" y="166">   ██║    ╚██╗ ██╔╝</text>
+  <text x="40" y="184">   ██║     ╚████╔╝ </text>
+  <text x="40" y="202">   ██║      ╚██╔╝  </text>
+  <text x="40" y="220">   ╚═╝       ╚═╝   </text>
+</g>
+
+<g font-size="14.5" fill="#f5f5f7">
+  <text x="280" y="118" fill="#f5f5f7" font-weight="600" font-size="16">ilja@technovizor</text>
+  <text x="280" y="136" fill="#48484a">─────────────────────────────</text>
+
+  <text x="280" y="160"><tspan fill="#0A84FF">Role</tspan><tspan fill="#48484a">.......</tspan> Full-Stack Developer &amp; Student</text>
+  <text x="280" y="184"><tspan fill="#0A84FF">Frontend</tspan><tspan fill="#48484a">...</tspan> React + Next.js, Vue + Nuxt (SSR)</text>
+  <text x="280" y="208"><tspan fill="#0A84FF">Backend</tspan><tspan fill="#48484a">....</tspan> Laravel / PHP, Python, Node.js</text>
+  <text x="280" y="232"><tspan fill="#0A84FF">Databases</tspan><tspan fill="#48484a">..</tspan> PostgreSQL, MySQL, SQLite</text>
+  <text x="280" y="256"><tspan fill="#0A84FF">AI &amp; Data</tspan><tspan fill="#48484a">..</tspan> Pandas, NumPy, Jupyter</text>
+  <text x="280" y="280"><tspan fill="#0A84FF">Achievement</tspan> Butterfly-classification AI 🦋</text>
+  <text x="280" y="304"><tspan fill="#0A84FF">Contact</tspan><tspan fill="#48484a">....</tspan> thelogingame@gmail.com</text>
+  <text x="280" y="328"><tspan fill="#0A84FF">Status</tspan><tspan fill="#48484a">.....</tspan> always learning, always building</text>
+</g>
+
+<text x="28" y="376" font-size="15" fill="#0A84FF">ilja@technovizor <tspan fill="#98989d">~</tspan> <tspan fill="#f5f5f7">%</tspan> <tspan fill="#f5f5f7" opacity="0.6">▌</tspan></text>
+</svg>
