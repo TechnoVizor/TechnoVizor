@@ -52,43 +52,6 @@
 
 <img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-divider.svg" width="100%" alt="divider" />
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=TechnoVizor&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TechnoVizor&show_icons=true&hide_border=true&bg_color=1c1c1e&title_color=0A84FF&icon_color=0A84FF&text_color=f5f5f7&ring_color=0A84FF&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TechnoVizor&layout=compact&hide_border=true&bg_color=1c1c1e&title_color=0A84FF&text_color=f5f5f7" height="165" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=TechnoVizor&hide_border=true&background=1c1c1e&ring=0A84FF&fire=0A84FF&currStreakNum=f5f5f7&currStreakLabel=0A84FF&sideNums=f5f5f7&sideLabels=98989d&dates=98989d" height="165" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoVizor&hide_border=true&bg_color=1c1c1e&color=0A84FF&line=0A84FF&point=f5f5f7&title_color=0A84FF" width="95%" alt="Contribution activity graph" />
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</picture>
-
-</div>
-
 <div align="center">
 
 ### 💬 *"Learning by building."*
