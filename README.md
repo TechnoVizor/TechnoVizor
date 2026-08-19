@@ -1,13 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-header.svg" width="100%" alt="Header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=0A84FF&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+i%C4%BCja+%E2%80%A2+full-stack+developer;%24+ls+~%2Fskills+%E2%86%92+react+next.js+vue+nuxt+laravel+python;%24+cat+databases.txt+%E2%86%92+postgresql+mysql+sqlite;%24+.%2Fbuild_future.sh+--now+_" alt="Terminal typing intro" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-divider.svg" width="100%" alt="divider" />
-
 ## 💻 About Me
 
 <img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-terminal.svg" width="100%" alt="Terminal window with neofetch output" />
