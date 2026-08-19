@@ -28,13 +28,3 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-divider.svg" width="100%" alt="divider" />
-
-## 🔗 Connect
-
-<div align="center">
-
-<a href="https://github.com/TechnoVizor"><img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/dock-github.svg" width="72" alt="GitHub" /></a>
-&nbsp;&nbsp;
-<a href="mailto:thelogingame@gmail.com"><img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/dock-mail.svg" width="72" alt="Email" /></a>
-
-</div>
