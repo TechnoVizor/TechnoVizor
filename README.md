@@ -1,8 +1,4 @@
-## 💻 About Me
 
-<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-terminal.svg" width="100%" alt="Terminal window with neofetch output" />
-
-<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-divider.svg" width="100%" alt="divider" />
 
 ## 🛠️ Tech Stack
 
