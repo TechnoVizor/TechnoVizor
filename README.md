@@ -1,7 +1,3 @@
-
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ### ⚛️ Frontend & SSR
