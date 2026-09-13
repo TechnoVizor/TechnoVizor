@@ -39,6 +39,19 @@
 
 <img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-divider.svg" width="100%" alt="divider" />
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TechnoVizor&show_icons=true&count_private=true&hide_border=true&bg_color=1c1c1e&title_color=0A84FF&icon_color=0A84FF&text_color=ffffff" height="165" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TechnoVizor&hide_border=true&background=1c1c1e&stroke=1c1c1e&ring=0A84FF&fire=0A84FF&currStreakLabel=0A84FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a8e" height="165" alt="GitHub streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoVizor&layout=compact&hide_border=true&bg_color=1c1c1e&title_color=0A84FF&text_color=ffffff&langs_count=8" height="165" alt="Top languages" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/TechnoVizor/TechnoVizor/main/assets/mac-divider.svg" width="100%" alt="divider" />
+
 ## 🔗 Connect
 
 <div align="center">
